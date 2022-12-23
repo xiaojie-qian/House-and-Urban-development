@@ -9,4 +9,9 @@
 
 <br>
 
+## Questions
+1.  Whether there are some differences in the market values of occupied versus not occupied housing units and whether these differences have a pattern over the period 2005 through 2013
+
+<br>
+
 ## Description
