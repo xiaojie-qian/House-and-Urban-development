@@ -3,4 +3,10 @@
 
 <br> 
 
+## Variables 
+![dataset](https://user-images.githubusercontent.com/58776067/209270971-71cc8ffa-5fff-4972-a916-febef6dc810b.png)
+
+
+<br>
+
 ## Description
