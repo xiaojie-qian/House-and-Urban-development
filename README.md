@@ -22,7 +22,7 @@
 - Two-paired hypothese test
 - conclusion
 
-### 3. What factors predict or contribute to the housing or the current market value of single family units?
+### 3. What factors predict or contribute to the housing or the current market value of single family units? (only single familiy units)
 
 
 <br>
