@@ -14,6 +14,10 @@
 - Descriptive statistics across the whole year
 - Compare the means of two different population (occupied vs. un-occupied)
 
+<br>
+
+### 2. Is there a way to see if there was an effect of the 2008 subprime mortgage crisis, particularly, an effect on housing rent? 
+
 
 <br>
 
