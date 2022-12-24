@@ -13,10 +13,16 @@
 ### 1.  Whether there are some differences in the market values of occupied versus not occupied housing units and whether these differences have a pattern over the period 2005 through 2013
 - Descriptive statistics across the whole year
 - Compare the means of two different population (occupied vs. un-occupied)
+- conclusion
 
-<br>
 
 ### 2. Is there a way to see if there was an effect of the 2008 subprime mortgage crisis, particularly, an effect on housing rent? 
+- Merge the FMR across 2005 to 2013
+- Descriptive statistics 
+- Two-paired hypothese test
+- conclusion
+
+### 3. What factors predict or contribute to the housing or the current market value of single family units?
 
 
 <br>
