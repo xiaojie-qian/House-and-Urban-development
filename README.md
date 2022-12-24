@@ -24,6 +24,8 @@
 
 ### 3. What factors predict or contribute to the housing or the current market value of single family units? (only single familiy units)
 - The set of variables you used in the regression model and a brief justification for their use.
+  - set independent and dependent variables 
+  - check relation of y and x -> if needs transformation 
 - The estimated regression model output from Excel
 - Interpret the impact of various variables included in your model on the market value of housing units.
 
