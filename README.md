@@ -31,6 +31,8 @@
 - Interpret the impact of various variables included in your model on the market value of housing units.
   - Managerial meanings 
   - which factors play an important role? 
+  
+### 4. Predict future market value for the same properties.
 
 <br>
 
