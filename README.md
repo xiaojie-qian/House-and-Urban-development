@@ -53,3 +53,9 @@
 <br>
 
 ## Description
+1. Understand descriptive statistics 
+2. Know how to carry out test hypothesises of two different datasets
+3. Create the linear regression model and interpret the data
+4. Transform the regression model and interpret the data
+5. Predict the y variable 
+6. Evaluate the regression model
