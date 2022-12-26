@@ -33,10 +33,20 @@
   - Which factors play an important role? 
   
 ### 4. Predict future market value for the same properties.
-- Build regression model 
+- Use the built regression model 
+  - Y variable of 2013 and x variables of 2011 by merging the data 
+  - Data cleaning 
+   - Use only the common housing unit
+   - Housing values are above 1000 usd 
+   - Only one familiy housing unit
 - Evaluate the regression model 
+  - Using existing model to get predicted housing value of 2013 
   - R square measure
-  - Handout analysis: use the regression data to predict the held out data
+  - Handout analysis 
+   - Select 1000 housing units at random
+   - Use the regression model to predict the selected x variables to get y variable
+   - Compare the predicted y variables to the actual y variables of 2013
+   - Calculate the "Mean absolute deviation" value to evaluate the model 
 
 <br>
 
