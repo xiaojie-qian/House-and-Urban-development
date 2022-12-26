@@ -4,7 +4,9 @@
 <br> 
 
 ## Variables 
-![dataset](https://user-images.githubusercontent.com/58776067/209270971-71cc8ffa-5fff-4972-a916-febef6dc810b.png)
+
+![List-of-variables-to-be-used-in-Capstone_Page_1](https://user-images.githubusercontent.com/58776067/209517678-3f3d4f90-b0af-4561-8bd0-c07a95b4be87.png)
+![List-of-variables-to-be-used-in-Capstone_Page_2](https://user-images.githubusercontent.com/58776067/209517698-ca4cf4ce-8b6c-4124-8629-bd2ee31e0f47.png)
 
 
 <br>
